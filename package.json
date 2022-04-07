@@ -1,0 +1,23 @@
+{
+  "name": "gh-testing-new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarahwedge/gh-testing-new.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarahwedge/gh-testing-new/issues"
+  },
+  "homepage": "https://github.com/sarahwedge/gh-testing-new#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
